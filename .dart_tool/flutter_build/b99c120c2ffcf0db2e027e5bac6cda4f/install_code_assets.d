@@ -1,0 +1,1 @@
+ C:\\Users\\boibo\\Documents\\ThesisFiles\\food_scan_app\\food_scan_app\\.dart_tool\\flutter_build\\b99c120c2ffcf0db2e027e5bac6cda4f\\native_assets.json: 

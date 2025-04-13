@@ -1,0 +1,2 @@
+C:/Users/boibo/Documents/ThesisFiles/food_scan_app/food_scan_app/android/app/.cxx/Debug/b2v6q5p6/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/boibo/Documents/ThesisFiles/food_scan_app/food_scan_app/android/app/.cxx/Debug/b2v6q5p6/x86_64/CMakeFiles/rebuild_cache.dir
